@@ -5,10 +5,6 @@
 
 - ⛰️ I am located in Colorado
 
-- 🎴 See [my portfolio](https://adam-olson.netlify.app/)
-
-- 🌱 I’m currently learning **JavaScript Frameworks**
-
 - 📫 How to reach me **olsona390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
