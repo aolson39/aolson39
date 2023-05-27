@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Adam Olson</h1>
-<h3 align="left">Full Stack Software Engineer</h3>
+<h3 align="left">I am currently a C++ Software Engineer @ InvestorTools Inc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolson39&label=Profile%20views&color=0e75b6&style=flat" alt="aolson39" /> </p>
 
