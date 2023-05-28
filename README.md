@@ -5,6 +5,8 @@
 
 - ⛰️ I am located in Colorado
 
+- 👨‍💻 Constantly refining my skills on CodeWars.com
+
 - 📫 How to reach me **olsona390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
