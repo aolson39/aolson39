@@ -1,17 +1,11 @@
-<h1 align="left">Hi 👋, I'm Adam Olson</h1>
-<h3 align="left">I am currently a C++ Software Engineer @ InvestorTools Inc.</h3>
+<h1 align="left">Hi, I'm Adam Olson</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolson39&label=Profile%20views&color=0e75b6&style=flat" alt="aolson39" /> </p>
 
-- ⛰️ I am located in Colorado
-
-- 👨‍💻 Constantly refining my skills on CodeWars.com
-
-- 📫 How to reach me **olsona390@gmail.com**
+- 📫 Reach me at **olsona390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adamxolson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamxolson" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/linkedin.com/in/adamxolson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adamxolson" height="30" width="40" /></a>
 </p>
 
