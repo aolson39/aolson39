@@ -1,8 +1,8 @@
-<h1 align="left">Hi, I'm Adam Olson</h1>
+<h1 align="left">Hi, I'm Adam Olson!</h1>
+<h3 align="left">I'm travelling right now, and building personal projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolson39&label=Profile%20views&color=0e75b6&style=flat" alt="aolson39" /> </p>
-
-- 📫 Reach me at **olsona390@gmail.com**
+📫 Reach me at **olsona390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
