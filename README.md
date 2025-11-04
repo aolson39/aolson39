@@ -2,7 +2,8 @@
 <h3 align="left">I'm travelling right now, and building personal projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aolson39&label=Profile%20views&color=0e75b6&style=flat" alt="aolson39" /> </p>
-📫 Contact me [here] (mailto:olsona390@gmail.com)
+📫 If you would like to contact me, please 
+<a href="mailto:adamolson0123@gmail.com?&bcc=lastemail@example.com&subject=Mail from our Website&body=Hey Adam, I found you on Github">send me an Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
